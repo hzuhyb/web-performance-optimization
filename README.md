@@ -3,28 +3,30 @@
 
 ## Step（性能优化的工作步骤）
 
-### 1.学会用Chrome DevTools
+### 1、学会用Chrome DevTools
 
-- [Chrome DevTools 之 Network，我来教你](http://www.jianshu.com/p/471950517b07)
-- [Chrome DevTools 之 Timeline，我来教你](http://www.jianshu.com/p/b8cdcd9bfad8)
-- [Chrome DevTools 之 Profiles，我来教你](http://www.jianshu.com/p/504bde348956)
+- [Chrome DevTools 之 Network](http://www.jianshu.com/p/471950517b07)
+- [Chrome DevTools 之 Timeline](http://www.jianshu.com/p/b8cdcd9bfad8)
+- [Chrome DevTools 之 Profiles](http://www.jianshu.com/p/504bde348956)
 
-### 2.学会用Chrome DevTools发现内存泄漏，以及知道内存泄漏的原因和如何避免
+### 2、学会用Chrome DevTools发现内存泄漏，以及知道内存泄漏的原因和如何避免
 
 - [4类 JavaScript 内存泄漏及如何避免](http://jinlong.github.io/2016/05/01/4-Types-of-Memory-Leaks-in-JavaScript-and-How-to-Get-Rid-Of-Them/)
 - [使用 Chrome Timeline 来优化页面性能](https://blog.coding.net/blog/Chome-Timeline)
 
-### 3.学会JavaScript设计模式，优化现有的代码
+### 3、学会JavaScript设计模式，优化现有的代码
 
 -【JavaScript设计模式与开发实践】书籍。
 
-### 4.性能优化，了解HTTP协议必不可少
+### 4、性能优化，了解HTTP协议必不可少
 
 -【HTTP权威指南】书籍。
 
-### 5.因为这次主要是动画的优化，因此必须记录要关于动画的优化
+### 5、因为这次主要是动画的优化，因此必须记录要关于动画的优化
 
 - [说说动画卡顿的解决方案](https://segmentfault.com/a/1190000006708777)
+
+### 6、视频直播
 
 
 ## 关于性能优化一些好文章
