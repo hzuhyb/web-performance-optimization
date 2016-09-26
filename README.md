@@ -9,8 +9,10 @@
 - [Chrome DevTools 之 Timeline](http://www.jianshu.com/p/b8cdcd9bfad8)
 - [Chrome DevTools 之 Profiles](http://www.jianshu.com/p/504bde348956)
 
-### 2、学会用Chrome DevTools发现内存泄漏，以及知道内存泄漏的原因和如何避免
+### 2、了解内存，知道内存的产生原因，然后学会用Chrome DevTools发现内存泄漏，以及知道内存泄漏的原因和如何避免
 
+- [搞定JavaScript内存泄漏](https://boke.io/gao-ding-nei-cun-xie-lou/)
+- [JavaScript常见的内存泄漏原因](https://boke.io/javascriptnei-chang-jian-nei-cun-xie-lou-yuan-yin/)
 - [4类 JavaScript 内存泄漏及如何避免](http://jinlong.github.io/2016/05/01/4-Types-of-Memory-Leaks-in-JavaScript-and-How-to-Get-Rid-Of-Them/)
 - [使用 Chrome Timeline 来优化页面性能](https://blog.coding.net/blog/Chome-Timeline)
 
