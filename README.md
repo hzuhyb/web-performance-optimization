@@ -13,6 +13,7 @@
 
 - [搞定JavaScript内存泄漏](https://boke.io/gao-ding-nei-cun-xie-lou/)
 - [JavaScript常见的内存泄漏原因](https://boke.io/javascriptnei-chang-jian-nei-cun-xie-lou-yuan-yin/)
+- [关于dom清空的内存泄漏问题](https://boke.io/guan-yu-domqing-kong-de-nei-cun-xie-lu-wen-ti/)
 - [4类 JavaScript 内存泄漏及如何避免](http://jinlong.github.io/2016/05/01/4-Types-of-Memory-Leaks-in-JavaScript-and-How-to-Get-Rid-Of-Them/)
 - [使用 Chrome Timeline 来优化页面性能](https://blog.coding.net/blog/Chome-Timeline)
 
