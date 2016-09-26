@@ -9,7 +9,7 @@
 - [Chrome DevTools 之 Timeline](http://www.jianshu.com/p/b8cdcd9bfad8)
 - [Chrome DevTools 之 Profiles](http://www.jianshu.com/p/504bde348956)
 
-### 2、了解内存，知道内存的产生原因，然后学会用Chrome DevTools发现内存泄漏，以及知道内存泄漏的原因和如何避免
+### 2、了解内存，知道内存的产生原因；了解 JavaScript 的垃圾收集机制，知道垃圾收集方式；然后学会用Chrome DevTools发现内存泄漏，以及知道内存泄漏的原因和如何避免
 
 - [搞定JavaScript内存泄漏](https://boke.io/gao-ding-nei-cun-xie-lou/)
 - [JavaScript常见的内存泄漏原因](https://boke.io/javascriptnei-chang-jian-nei-cun-xie-lou-yuan-yin/)
@@ -31,7 +31,7 @@
 ### 6、视频直播
 
 
-## 关于性能优化一些好文章
+## 关于性能优化的一些好文章
 
 - [深度剖析浏览器渲染性能原理，你到底知道多少？](http://www.jianshu.com/p/a32b890c29b1)
 - [【译】编写高性能JavaScript](http://www.alloyteam.com/2012/11/performance-writing-efficient-javascript/#prettyPhoto)
