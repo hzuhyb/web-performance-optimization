@@ -11,6 +11,7 @@
 
 ### 2、了解内存，知道内存的产生原因；了解 JavaScript 的垃圾收集机制，知道垃圾收集方式；然后学会用Chrome DevTools发现内存泄漏，以及知道内存泄漏的原因和如何避免
 
+- [JavaScript垃圾收集机制](https://github.com/huangtubiao/performance-optimization-road/blob/master/JavaScript垃圾收集机制.md)
 - [搞定JavaScript内存泄漏](https://boke.io/gao-ding-nei-cun-xie-lou/)
 - [JavaScript常见的内存泄漏原因](https://boke.io/javascriptnei-chang-jian-nei-cun-xie-lou-yuan-yin/)
 - [关于dom清空的内存泄漏问题](https://boke.io/guan-yu-domqing-kong-de-nei-cun-xie-lu-wen-ti/)
