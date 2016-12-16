@@ -5,6 +5,7 @@
 
 ### 1、学会用Chrome DevTools
 
+- [Chrome开发者工具详解系列](http://web.jobbole.com/89079/)
 - [Chrome DevTools 之 Network](http://www.jianshu.com/p/471950517b07)
 - [Chrome DevTools 之 Timeline](http://www.jianshu.com/p/b8cdcd9bfad8)
 - [Chrome DevTools 之 Profiles](http://www.jianshu.com/p/504bde348956)
