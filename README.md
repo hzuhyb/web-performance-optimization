@@ -36,6 +36,7 @@
 
 ## 关于性能优化的一些好文章
 
+- [前端性能优化](http://ymfe.tech/blog/2016-09-24-fe-performance-optimization/)
 - [深度剖析浏览器渲染性能原理，你到底知道多少？](http://www.jianshu.com/p/a32b890c29b1)
 - [【译】编写高性能JavaScript](http://www.alloyteam.com/2012/11/performance-writing-efficient-javascript/#prettyPhoto)
 - [浅谈函数节流](http://www.alloyteam.com/2012/11/javascript-throttle/)
