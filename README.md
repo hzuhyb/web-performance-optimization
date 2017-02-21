@@ -42,3 +42,4 @@
 - [浅谈函数节流](http://www.alloyteam.com/2012/11/javascript-throttle/)
 - [DOM的操作与性能](https://github.com/huangtubiao/performance-optimization-road/blob/master/article/DOM的操作与性能.md)
 - [JavaScript闭包与内存泄露](https://github.com/huangtubiao/performance-optimization-road/blob/master/article/JavaScript闭包与内存泄露.md)
+- [JavaScript 启动性能探究](https://github.com/xitu/gold-miner/blob/master/TODO/javascript-start-up-performance.md)
