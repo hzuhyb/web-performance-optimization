@@ -43,3 +43,6 @@
 - [DOM的操作与性能](https://github.com/huangtubiao/performance-optimization-road/blob/master/article/DOM的操作与性能.md)
 - [JavaScript闭包与内存泄露](https://github.com/huangtubiao/performance-optimization-road/blob/master/article/JavaScript闭包与内存泄露.md)
 - [JavaScript 启动性能探究](https://github.com/xitu/gold-miner/blob/master/TODO/javascript-start-up-performance.md)
+- [单页面应用下的JS内存管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651225853&idx=1&sn=e2a7686a9eea4775eaf4065e002cc4d5&chksm=bd49a7798a3e2e6f8bdaa3d07c99ddf2ae4802afa708c08762ab2a58aaa48004d4e38cc9939b&scene=21#wechat_redirect)
+- [单页面应用下的JS内存管理实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651225864&idx=1&sn=292dd36cbcbb7d57c67718752ceaf6d0&chksm=bd49a68c8a3e2f9aa91e21741e1b7a6c46119d68ad1f8e8ad8578f302b18f304e3b345c10c76&mpshare=1&scene=23&srcid=0224iCeq1IV4iqbA42OSOYxi%23rd)
+- [单页面应用下的JS内存管理(原文)](https://zhuanlan.zhihu.com/p/24992268)
