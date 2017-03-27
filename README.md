@@ -3,7 +3,25 @@
 
 ## Step（性能优化的工作步骤）
 
-### 1、学会用Chrome DevTools
+### 关键词
+
+#### 性能优化的工具
+
+火焰图、瀑布流、时间轴、Fiddle抓包、AB 工具、网速设置工具
+
+#### 性能优化的网络优化
+
+DNS-Prefetch、preload、preRender、TTL、TTFB、GZip、307 状态码
+
+#### 页面的优化
+
+资源的压缩、打包、内敛，模块的懒加载、懒执行、懒渲染
+
+#### 代码层面的优化
+
+重绘、回流、FPS、节流、事件代理
+
+### 学会用Chrome DevTools
 
 - [Chrome开发者工具详解系列](http://web.jobbole.com/89079/)
 - [Chrome DevTools — Network](https://segmentfault.com/a/1190000008407729)
@@ -12,7 +30,7 @@
 - [Chrome DevTools 之 Profiles](http://www.jianshu.com/p/504bde348956)
 
 
-### 2、了解内存，知道内存的产生原因；了解 JavaScript 的垃圾收集机制，知道垃圾收集方式；然后学会用Chrome DevTools发现内存泄漏，以及知道内存泄漏的原因和如何避免
+### 了解内存，知道内存的产生原因；了解 JavaScript 的垃圾收集机制，知道垃圾收集方式；然后学会用Chrome DevTools发现内存泄漏，以及知道内存泄漏的原因和如何避免
 
 - [JavaScript垃圾收集机制](https://github.com/huangtubiao/performance-optimization-road/blob/master/article/JavaScript垃圾收集机制.md)
 - [搞定JavaScript内存泄漏](https://boke.io/gao-ding-nei-cun-xie-lou/)
@@ -25,22 +43,22 @@
 - [单页面应用下的JS内存管理实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651225864&idx=1&sn=292dd36cbcbb7d57c67718752ceaf6d0&chksm=bd49a68c8a3e2f9aa91e21741e1b7a6c46119d68ad1f8e8ad8578f302b18f304e3b345c10c76&mpshare=1&scene=23&srcid=0224iCeq1IV4iqbA42OSOYxi%23rd)
 
 
-### 3、学会JavaScript设计模式，优化现有的代码
+### 学会JavaScript设计模式，优化现有的代码
 
 - 【JavaScript设计模式与开发实践】书籍。
 
 
-### 4、性能优化，了解HTTP协议必不可少
+### 性能优化，了解HTTP协议必不可少
 
 - 【HTTP权威指南】书籍。
 
 
-### 5、因为这次主要是动画的优化，因此必须记录要关于动画的优化
+### 因为这次主要是动画的优化，因此必须记录要关于动画的优化
 
 - [说说动画卡顿的解决方案](https://segmentfault.com/a/1190000006708777)
 
 
-### 6、视频直播
+### 视频直播
 
 
 ## 关于性能优化的一些好文章
