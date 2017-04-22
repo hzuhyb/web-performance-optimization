@@ -50,7 +50,7 @@ DNS-Prefetch、preload、preRender、TTL、TTFB、GZip、307 状态码
 
 
 
-### :closed_book: 首屏优化以
+### :closed_book: 首屏优化
 
 - [深入研究Chrome：Preload与Prefetch原理，及其优先级](http://www.10tiao.com/html/184/201704/2247485131/1.html)
 - [移动端首屏白屏的解决方案]()
@@ -59,7 +59,7 @@ DNS-Prefetch、preload、preRender、TTL、TTFB、GZip、307 状态码
 
 ### :closed_book: 代码层面上优化
 
-#### :book: js优化
+#### :book: JS优化
 
 - [【译】编写高性能JavaScript](http://www.alloyteam.com/2012/11/performance-writing-efficient-javascript/#prettyPhoto)
 - [浅谈函数节流](http://www.alloyteam.com/2012/11/javascript-throttle/)
