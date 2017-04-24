@@ -41,11 +41,15 @@ DNS-Prefetch、preload、preRender、TTL、TTFB、GZip、307 状态码
 - [使用 Chrome Timeline 来优化页面性能](https://blog.coding.net/blog/Chome-Timeline)
 - [单页面应用下的JS内存管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651225853&idx=1&sn=e2a7686a9eea4775eaf4065e002cc4d5&chksm=bd49a7798a3e2e6f8bdaa3d07c99ddf2ae4802afa708c08762ab2a58aaa48004d4e38cc9939b&scene=21#wechat_redirect)
 - [单页面应用下的JS内存管理实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651225864&idx=1&sn=292dd36cbcbb7d57c67718752ceaf6d0&chksm=bd49a68c8a3e2f9aa91e21741e1b7a6c46119d68ad1f8e8ad8578f302b18f304e3b345c10c76&mpshare=1&scene=23&srcid=0224iCeq1IV4iqbA42OSOYxi%23rd)
+- [JS内存泄漏排查方法-Chrome Profiles](http://caibaojian.com/chrome-profiles.html)
 
 
 
-### :closed_book: 知道浏览器渲染过程
+### :closed_book: 知道浏览器的工作原理以及渲染过程
 
+- [浏览器的工作原理：新式网络浏览器幕后揭秘（上）](http://mp.weixin.qq.com/s/ux2QduYgN_LMjLhmMg8ToA)
+- [浏览器的工作原理：新式网络浏览器幕后揭秘（中）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651226390&idx=2&sn=b25a894eab68f98d65e23c5ea24b8b73&chksm=bd4958928a3ed184d09d15661414e889116e0a3f0e37ce89b40ad8ddfe67efa24380e3443cd7&mpshare=1&scene=23&srcid=0423abTS9uh9nRZmSfv3SYjG#rd)
+- [浏览器的工作原理：新式网络浏览器幕后揭秘（下）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651226390&idx=3&sn=c4aa43af945ad73250b7ea71ae5816f8&chksm=bd4958928a3ed1849a47b139a3bd6884b2424638ba47f6f2b4939fe969fb405fb358edac59e1&mpshare=1&scene=23&srcid=0423bMoeJZYRTd5OmFgjLu7R#rd)
 - [深度剖析浏览器渲染性能原理，你到底知道多少？](http://www.jianshu.com/p/a32b890c29b1)
 
 
@@ -54,6 +58,7 @@ DNS-Prefetch、preload、preRender、TTL、TTFB、GZip、307 状态码
 
 - [深入研究Chrome：Preload与Prefetch原理，及其优先级](http://www.10tiao.com/html/184/201704/2247485131/1.html)
 - [移动端首屏白屏的解决方案]()
+- [移动Web首屏优化实践]()
 
 
 
@@ -92,6 +97,7 @@ DNS-Prefetch、preload、preRender、TTL、TTFB、GZip、307 状态码
 
 ### :closed_book: 泛谈性能优化
 
+- [手Q Hybrid App优化之路]()
 - [前端性能优化](http://ymfe.tech/blog/2016-09-24-fe-performance-optimization/)
 - [如何让博客速度快到哭](https://ppt.baomitu.com/d/a8a49a00?from=timeline&isappinstalled=0#/1)
 
