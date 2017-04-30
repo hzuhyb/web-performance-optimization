@@ -2,19 +2,19 @@
 
 ### :closed_book: 关于性能优化的关键词
 
-#### :book: 性能优化的工具
+#### 性能优化的工具
 
 Chrome DevTool、火焰图、瀑布流、时间轴、Fiddle抓包、Charles、AB 工具、网速设置工具
 
-#### :book: 性能优化的网络优化
+#### 性能优化的网络优化
 
 DNS-Prefetch、preload、preRender、TTL、TTFB、GZip、307 状态码
 
-#### :book: 页面的优化
+#### 页面的优化
 
 资源的压缩、打包、内敛，模块的懒加载、懒执行、懒渲染
 
-#### :book: 代码层面的优化
+#### 代码层面的优化
 
 重绘、回流、FPS、节流、事件代理
 
@@ -102,3 +102,10 @@ DNS-Prefetch、preload、preRender、TTL、TTFB、GZip、307 状态码
 - [如何让博客速度快到哭](https://ppt.baomitu.com/d/a8a49a00?from=timeline&isappinstalled=0#/1)
 - [性能专栏（Performance Column）](https://github.com/barretlee/performance-column)
 - [前端细节优化](https://github.com/kangkk/web_performance_optimization)
+- [移动 WEB 通用优化策略介绍](https://imququ.com/post/wpo-of-mobile-web-1.html)
+
+
+### :closed_book: 优化方案
+
+- [AMP，来自 Google 的移动页面优化方案](https://imququ.com/post/amp-project.html)
+- [MIP](https://www.mipengine.org/)
