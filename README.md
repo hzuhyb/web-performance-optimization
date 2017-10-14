@@ -80,12 +80,18 @@ DNS-Prefetch、preload、preRender、TTL、TTFB、GZip、307 状态码
 - [说说动画卡顿的解决方案](https://segmentfault.com/a/1190000006708777)
 - [页面滚动FPS较低的解决方案]()
 
+#### :book: 滚动优化
+
+- [高性能滚动 scroll 及页面渲染优化](http://web.jobbole.com/86158/)
+
+
 
 ### :closed_book: 底层上优化
 
-#### :book: V8对代码做的一些优化
+#### :book: 浏览器对代码做的一些优化
 
 - [V8引擎深入研究目录贴](https://segmentfault.com/a/1190000008618731)
+- [WebRender：让网页渲染如丝顺滑](http://www.zcfy.cc/article/4386?from=timeline&isappinstalled=0)
 
 #### :book: JS与Native交互时相互通信的成本问题
 
