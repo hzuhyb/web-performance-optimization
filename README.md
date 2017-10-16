@@ -20,7 +20,15 @@ DNS-Prefetch、preload、preRender、TTL、TTFB、GZip、307 状态码
 
 
 
-### :closed_book: 学会用Chrome DevTools
+### :closed_book: 使用第三方网站获取性能测试报告
+
+- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- [GTmetrix](https://gtmetrix.com/)
+- [WebPagetest](https://www.webpagetest.org/)
+
+
+
+### :closed_book: 学会用Chrome DevTools收集性能指标
 
 - [Chrome开发者工具详解系列](http://web.jobbole.com/89079/)
 - [Chrome DevTools — Network](https://segmentfault.com/a/1190000008407729)
@@ -42,6 +50,7 @@ DNS-Prefetch、preload、preRender、TTL、TTFB、GZip、307 状态码
 - [单页面应用下的JS内存管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651225853&idx=1&sn=e2a7686a9eea4775eaf4065e002cc4d5&chksm=bd49a7798a3e2e6f8bdaa3d07c99ddf2ae4802afa708c08762ab2a58aaa48004d4e38cc9939b&scene=21#wechat_redirect)
 - [单页面应用下的JS内存管理实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651225864&idx=1&sn=292dd36cbcbb7d57c67718752ceaf6d0&chksm=bd49a68c8a3e2f9aa91e21741e1b7a6c46119d68ad1f8e8ad8578f302b18f304e3b345c10c76&mpshare=1&scene=23&srcid=0224iCeq1IV4iqbA42OSOYxi%23rd)
 - [JS内存泄漏排查方法-Chrome Profiles](http://caibaojian.com/chrome-profiles.html)
+- [深入理解Node.js垃圾回收与内存管理](http://www.jianshu.com/p/4129a3fce7bb)
 
 
 
@@ -54,11 +63,20 @@ DNS-Prefetch、preload、preRender、TTL、TTFB、GZip、307 状态码
 
 
 
+### :closed_book: 性能优化的网络优化
+
+- [【前端性能】浅谈域名发散与域名收敛 ](https://github.com/chokcoco/cnblogsArticle/issues/1)
+- [移动Web首屏优化实践 ](https://github.com/huangtubiao/web-performance-optimization/blob/master/PDF/%E7%A7%BB%E5%8A%A8Web%E9%A6%96%E5%B1%8F%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5.pdf)
+
+
+
 ### :closed_book: 首屏优化
 
 - [深入研究Chrome：Preload与Prefetch原理，及其优先级](http://www.10tiao.com/html/184/201704/2247485131/1.html)
+- [手Q Hybrid App优化之路](https://github.com/huangtubiao/web-performance-optimization/blob/master/PDF/%E6%89%8BQ%20Hybrid%20App%E4%BC%98%E5%8C%96%E4%B9%8B%E8%B7%AF.pdf)
 - [移动端首屏白屏的解决方案]()
-- [移动Web首屏优化实践]()
+- [移动Web首屏优化实践](https://github.com/huangtubiao/web-performance-optimization/blob/master/PDF/%E7%A7%BB%E5%8A%A8Web%E9%A6%96%E5%B1%8F%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5.pdf)
+- [Web性能优化之 “直出” 理论与实践总结](https://segmentfault.com/a/1190000005641012)
 
 
 
@@ -83,7 +101,8 @@ DNS-Prefetch、preload、preRender、TTL、TTFB、GZip、307 状态码
 #### :book: 滚动优化
 
 - [高性能滚动 scroll 及页面渲染优化](http://web.jobbole.com/86158/)
-
+- [手Q Hybrid App优化之路](https://github.com/huangtubiao/web-performance-optimization/blob/master/PDF/%E6%89%8BQ%20Hybrid%20App%E4%BC%98%E5%8C%96%E4%B9%8B%E8%B7%AF.pdf)
+- [开发眼中的交互优化](https://github.com/huangtubiao/web-performance-optimization/blob/master/PDF/%E5%BC%80%E5%8F%91%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%BA%A4%E4%BA%92%E4%BC%98%E5%8C%96.pdf)
 
 
 ### :closed_book: 底层上优化
@@ -108,7 +127,8 @@ DNS-Prefetch、preload、preRender、TTL、TTFB、GZip、307 状态码
 - [前端细节优化](https://github.com/kangkk/web_performance_optimization)
 
 #### :book: H5
-- [手Q Hybrid App优化之路]()
+- [手Q Hybrid App优化之路](https://github.com/huangtubiao/web-performance-optimization/blob/master/PDF/%E6%89%8BQ%20Hybrid%20App%E4%BC%98%E5%8C%96%E4%B9%8B%E8%B7%AF.pdf)
+- [移动Web首屏优化实践 ](https://github.com/huangtubiao/web-performance-optimization/blob/master/PDF/%E7%A7%BB%E5%8A%A8Web%E9%A6%96%E5%B1%8F%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5.pdf)
 - [移动 WEB 通用优化策略介绍](https://imququ.com/post/wpo-of-mobile-web-1.html)
 - [WebView性能、体验分析与优化](http://tech.meituan.com/WebViewPerf.html)
 
