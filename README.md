@@ -16,7 +16,7 @@ DNS-Prefetch、preload、preRender、TTL、TTFB、GZip、307 状态码
 
 #### 代码层面的优化
 
-重绘、回流、FPS、节流、事件代理
+重绘、回流、FPS、节流、去抖、去定时器、事件代理
 
 
 
@@ -103,6 +103,7 @@ DNS-Prefetch、preload、preRender、TTL、TTFB、GZip、307 状态码
 - [高性能滚动 scroll 及页面渲染优化](http://web.jobbole.com/86158/)
 - [手Q Hybrid App优化之路](https://github.com/huangtubiao/web-performance-optimization/blob/master/PDF/%E6%89%8BQ%20Hybrid%20App%E4%BC%98%E5%8C%96%E4%B9%8B%E8%B7%AF.pdf)
 - [开发眼中的交互优化](https://github.com/huangtubiao/web-performance-optimization/blob/master/PDF/%E5%BC%80%E5%8F%91%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%BA%A4%E4%BA%92%E4%BC%98%E5%8C%96.pdf)
+- [如何不择手段提升scroll事件的性能](https://zhuanlan.zhihu.com/p/30078937?utm_medium=social&utm_source=wechat_session)
 
 
 ### :closed_book: 底层上优化
@@ -139,3 +140,7 @@ DNS-Prefetch、preload、preRender、TTL、TTFB、GZip、307 状态码
 
 - [AMP，来自 Google 的移动页面优化方案](https://imququ.com/post/amp-project.html)
 - [MIP](https://www.mipengine.org/)
+
+### :closed_book: 其它
+
+- [Google开发者官网-web](https://developers.google.com/web/?hl=zh-cn)
