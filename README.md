@@ -77,7 +77,7 @@ DNS-Prefetch、preload、preRender、TTL、TTFB、GZip、307 状态码
 - [移动端首屏白屏的解决方案]()
 - [移动Web首屏优化实践](https://github.com/huangtubiao/web-performance-optimization/blob/master/PDF/%E7%A7%BB%E5%8A%A8Web%E9%A6%96%E5%B1%8F%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5.pdf)
 - [Web性能优化之 “直出” 理论与实践总结](https://segmentfault.com/a/1190000005641012)
-
+- [淘宝首页性能优化实践](http://taobaofed.org/blog/2016/04/05/optimize-in-tbhome/)
 
 
 ### :closed_book: 代码层面上优化
@@ -96,10 +96,12 @@ DNS-Prefetch、preload、preRender、TTL、TTFB、GZip、307 状态码
 #### :book: 动画优化
 
 - [说说动画卡顿的解决方案](https://segmentfault.com/a/1190000006708777)
+- [CSS3 3D 行星运转动画 + 浏览器渲染原理](http://web.jobbole.com/85993/)
 - [页面滚动FPS较低的解决方案]()
 
 #### :book: 滚动优化
 
+- [移动web之滚动篇](http://www.alloyteam.com/2017/04/secrets-of-mobile-web-scroll-bars-and-drop-refresh/)
 - [高性能滚动 scroll 及页面渲染优化](http://web.jobbole.com/86158/)
 - [手Q Hybrid App优化之路](https://github.com/huangtubiao/web-performance-optimization/blob/master/PDF/%E6%89%8BQ%20Hybrid%20App%E4%BC%98%E5%8C%96%E4%B9%8B%E8%B7%AF.pdf)
 - [开发眼中的交互优化](https://github.com/huangtubiao/web-performance-optimization/blob/master/PDF/%E5%BC%80%E5%8F%91%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%BA%A4%E4%BA%92%E4%BC%98%E5%8C%96.pdf)
