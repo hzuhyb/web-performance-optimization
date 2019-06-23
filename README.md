@@ -117,6 +117,8 @@ DNS-Prefetch、preload、preRender、TTL、TTFB、GZip、307 状态码
 
 #### :book: JS与Native交互时相互通信的成本问题
 
+- [ReactNative安卓首屏白屏优化](https://github.com/cnsnake11/blog/blob/master/ReactNative%E5%BC%80%E5%8F%91%E6%8C%87%E5%AF%BC/ReactNative%E5%AE%89%E5%8D%93%E9%A6%96%E5%B1%8F%E7%99%BD%E5%B1%8F%E4%BC%98%E5%8C%96.md)
+- [React Native Android白屏优化终极方案](https://blog.csdn.net/voidmain_123/article/details/73549825)
 
 
 ### :closed_book: 自动化的性能监控方案
