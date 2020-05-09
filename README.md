@@ -125,6 +125,9 @@ DNS-Prefetch、preload、preRender、TTL、TTFB、GZip、307 状态码
 
 
 
+### :closed_book: 框架的性能优化（Nuxt.js|Vue.js|React|React Native）
+- [webpack splitChunks的功能在nuxt2中的应用](https://www.jianshu.com/p/54ad0d1d43e4?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
+
 ### :closed_book: 泛谈性能优化
 
 - [前端性能优化](http://ymfe.tech/blog/2016-09-24-fe-performance-optimization/)
